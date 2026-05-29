@@ -1,0 +1,15 @@
+[92mbaseline: iteration 0 - Done[0m
+[92msolution: iteration 0 - Done[0m
+[92mbaseline: iteration 1 - Done[0m
+[92msolution: iteration 1 - Done[0m
+[92mbaseline: iteration 2 - Done[0m
+[92msolution: iteration 2 - Done[0m
+Benchmark                                 Time             CPU      Time Old      Time New       CPU Old       CPU New
+----------------------------------------------------------------------------------------------------------------------
+[92mbench_compute_alignment       [0m[96m         -0.9757[0m[96m         -0.9757[0m       3161775         76704[0m       2918544         70803
+Benchmark                                 Time             CPU      Time Old      Time New       CPU Old       CPU New
+----------------------------------------------------------------------------------------------------------------------
+[92mbench_compute_alignment       [0m[96m         -0.9748[0m[96m         -0.9748[0m       3145738         79231[0m       2903751         73136
+Benchmark                                 Time             CPU      Time Old      Time New       CPU Old       CPU New
+----------------------------------------------------------------------------------------------------------------------
+[92mbench_compute_alignment       [0m[96m         -0.9728[0m[96m         -0.9729[0m       3213757         87267[0m       2966531         80541
